@@ -1,6 +1,6 @@
-# Md2hiki
+# md2hiki
 
-TODO: Write a gem description
+md2hiki is a markup converter, from Markdown to Hiki(https://github.com/hiki/hikidoc) format.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ md2hiki foo.md > foo.hiki
 
 ## Contributing
 
