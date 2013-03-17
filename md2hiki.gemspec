@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Md2hiki::VERSION
   spec.authors       = ["takahashim"]
   spec.email         = ["maki@rubycolor.org"]
-  spec.description   = %q{Markdown -> Hiki converter}
+  spec.description   = %q{md2hiki is a Markdown to Hiki converter using redcarpet}
   spec.summary       = %q{Markdown -> Hiki converter}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/takahashim/md2hiki"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
